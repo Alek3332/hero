@@ -520,14 +520,16 @@ button {
         top: 0px;
         filter: blur(3.5px);
         transform: rotate(0deg);
-        right: 50px;    }
+        right: 50px;    
+    }
 }
 @media only screen and (min-width: 1280px){
     .hero-main-img-straw {
         width: 120px;
         height: 120px;
         top: 0px;
-        right: 260px;}
+        right: 260px;
+    }
 }
 .hero-button{
     min-width: 80px;
