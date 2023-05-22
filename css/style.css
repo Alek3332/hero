@@ -451,9 +451,9 @@ button {
     padding-right: 19px;
     width: 343px;
     height: 586px;
-    background-image: url(../img/Frame\ 62.png);
+    background-image: url(../img/image.png), url(../img/banana.png), url(../img/strawberi.png), url(../img/border.svg);
     background-repeat: no-repeat;
-    background-size: contain;
+    background-position: left 414px top 122px, left 213px top 191px, left 937px top 39px,  left 397px top 118px;
 }
 @media only screen and (min-width: 768px){
     .hero-main-img {
@@ -685,6 +685,7 @@ button {
     background: var(--yellow-color);
     border-radius: 500px;
     margin: 0 auto;
+
 }
 @media only screen and (min-width: 768px){
     .fruits-second-container {
