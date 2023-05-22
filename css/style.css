@@ -494,7 +494,7 @@ button {
     transform: rotate(0deg);  
     }
 }
-@media only screen and (min-width: 768px){
+@media only screen and (min-width: 1280px){
     .hero-main-img-banana {
         width: 184px;
     height: 184px;
@@ -522,7 +522,7 @@ button {
         transform: rotate(0deg);
         right: 50px;    }
 }
-@media only screen and (min-width: 768px){
+@media only screen and (min-width: 1280px){
     .hero-main-img-straw {
         width: 120px;
         height: 120px;
